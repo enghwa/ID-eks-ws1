@@ -108,4 +108,4 @@ title = "My AWS Workshop"
 title = "Mon atelier AWS"
 weight = 2
 languageName = "Français"
-```
+```## Lab 1
